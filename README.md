@@ -8,13 +8,13 @@
 
 <br clear="both">
 
-<h1 align="center">👋 Hi, I'm SHASHANK TOMAR<br>🚀 Full Stack Developer | 🤖 AI/ML Engineer</h1>
+<h1 align="center" style="font-family: 'Courier New', Consolas, Monaco, monospace; color: #00ff00;">👋 Hi, I'm SHASHANK TOMAR<br>🚀 Full Stack Developer | 🤖 AI/ML Engineer</h1>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">
+<h4 align="left" style="font-family: 'Courier New', Consolas, Monaco, monospace;">
 ### 💫 About Me  <br>🎯 Passionate about blending **Full Stack Development** with **AI/ML** to create smart, scalable solutions.  <br>💻 Constantly learning, building, and experimenting with new technologies.  <br>🧠 Exploring **Deep Learning**, **LLMs**, and **MLOps pipelines**.  <br>🌐 Interested in **AI-driven SaaS**, **Data Visualization**, and **Next.js magic**.  <br>🎮 When I’m not coding, I love gaming, design, and playing with AI art tools.</h4>
 
 ###
