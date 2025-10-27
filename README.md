@@ -17,15 +17,17 @@
 
 <br clear="both">
 
-<h2 align="left" style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 600;">
-💫 Elite Developer Profile<br/><br/>
+<div align="left">
+<h2 style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 600;">💫 Elite Developer Profile</h2>
+<p style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 18px; line-height: 1.8;">
 🎯 <strong>World-class Full Stack Developer</strong> specializing in cutting-edge <strong>AI/ML</strong> integration and scalable architecture<br/>
 💻 <strong>10x Engineer</strong> with expertise in building production-ready, high-performance applications<br/>
 🧠 Master of <strong>Deep Learning</strong>, <strong>Large Language Models (LLMs)</strong>, <strong>MLOps</strong>, and <strong>AI Systems at Scale</strong><br/>
 🌐 Architect of <strong>AI-driven SaaS platforms</strong>, <strong>Advanced Data Visualization</strong>, and <strong>Next.js Enterprise Solutions</strong><br/>
 🏆 <strong>Industry leader</strong> in clean code, scalable design patterns, and cutting-edge development practices<br/>
 ⚡ Transforming ideas into reality through innovation and technical excellence
-</h2>
+</p>
+</div>
 
 ###
 
