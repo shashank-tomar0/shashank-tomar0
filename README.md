@@ -8,16 +8,26 @@
 
 <br clear="both">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Hi%2C+I'm+SHASHANK+TOMAR;🚀+Elite+Full+Stack+Developer+%7C+🤖+AI%2FML+Architect" alt="Typing SVG" />
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px; font-weight: 700;">
+  👋 Hi, I'm SHASHANK TOMAR<br/>
+  🚀 Elite Full Stack Developer | 🤖 AI/ML Architect
 </h1>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">
-### 💫 Elite Developer Profile  <br>🎯 **World-class Full Stack Developer** specializing in cutting-edge **AI/ML** integration and scalable architecture  <br>💻 **10x Engineer** with expertise in building production-ready, high-performance applications  <br>🧠 Master of **Deep Learning**, **Large Language Models (LLMs)**, **MLOps**, and **AI Systems at Scale**  <br>🌐 Architect of **AI-driven SaaS platforms**, **Advanced Data Visualization**, and **Next.js Enterprise Solutions**  <br>🏆 **Industry leader** in clean code, scalable design patterns, and cutting-edge development practices  <br>⚡ Transforming ideas into reality through innovation and technical excellence</h4>
+<div align="left">
+<h2 style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 24px; font-weight: 600;">💫 Elite Developer Profile</h2>
+<p style="font-family: 'Arial', 'Helvetica', sans-serif; font-size: 18px; line-height: 1.8;">
+🎯 <strong>World-class Full Stack Developer</strong> specializing in cutting-edge <strong>AI/ML</strong> integration and scalable architecture<br/>
+💻 <strong>10x Engineer</strong> with expertise in building production-ready, high-performance applications<br/>
+🧠 Master of <strong>Deep Learning</strong>, <strong>Large Language Models (LLMs)</strong>, <strong>MLOps</strong>, and <strong>AI Systems at Scale</strong><br/>
+🌐 Architect of <strong>AI-driven SaaS platforms</strong>, <strong>Advanced Data Visualization</strong>, and <strong>Next.js Enterprise Solutions</strong><br/>
+🏆 <strong>Industry leader</strong> in clean code, scalable design patterns, and cutting-edge development practices<br/>
+⚡ Transforming ideas into reality through innovation and technical excellence
+</p>
+</div>
 
 ###
 
