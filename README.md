@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="anime" width="320" height="auto" />
+
+# Shashank Tomar
+
+**AI/ML Engineer · Full-Stack Developer · Building Autonomous Systems**
+
 Building intelligent systems, AI agents, and scalable solutions that deliver measurable business impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-tomar1)
