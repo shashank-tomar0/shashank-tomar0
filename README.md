@@ -6,10 +6,10 @@
 
 Building intelligent systems, AI agents, and scalable solutions that deliver measurable business impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-tomar-b2a4a2290)
-[![X](https://img.shields.io/badge/@sudotom-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sudotom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-tomar1)
+[![X](https://img.shields.io/badge/@shashank1tomar-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shashank1tomar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sudotom.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank.tomar.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashanktomar912@gmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/shashank-tomar0?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/shashank-tomar0)
 
@@ -126,13 +126,13 @@ Available for full-time roles, contract work, and collaborative projects in AI s
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/See_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sudotom.vercel.app)
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-tomar-b2a4a2290)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank.tomar.dev@gmail.com)
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-tomar1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashanktomar912@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Building in public as <a href="https://twitter.com/sudotom">@sudotom</a></sub>
+  <sub>Building in public as <a href="https://twitter.com/shashank1tomar">@shashank1tomar</a></sub>
 </div>
