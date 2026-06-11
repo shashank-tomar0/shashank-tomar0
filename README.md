@@ -48,8 +48,8 @@ Secure PDF extraction + anti-manipulation, deterministic scoring, and GitHub ver
 **[AI-Keyboard](https://github.com/shashank-tomar0/ai-keyboard)** - Context-aware text prediction engine.
 Transformer-based suggestions for reduced keystrokes while keeping coherence across contexts. Tech: TypeScript, React Native, Expo.
 
-**[Repwise](https://github.com/shashank-tomar0/repwise)** - Repo intelligence & best-practices analyzer.
-Automated architecture/code-quality recommendations, compliance tracking, and real-time repo analytics for engineering teams.
+**[Repwise](https://github.com/shashank-tomar0/repwise)** - Real-time rep tracking & correction app for workouts.
+Tracks exercise library + nutrition, counts reps live, and records every set for progress.
 
 ---
 
