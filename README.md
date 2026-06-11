@@ -93,14 +93,6 @@ I build from zero. Whether full-stack AI applications, autonomous agent systems,
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shashank-tomar0&theme=transparent&rank=AAA,AA,A,B,C&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -108,14 +100,6 @@ I build from zero. Whether full-stack AI applications, autonomous agent systems,
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-tomar0&radius=16&theme=tokyonight&area=true&order=5" height="300" alt="Contribution Graph" />
 
 </div>
-
-<div align="center">
-
-![snake gif](https://github.com/shashank-tomar0/shashank-tomar0/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## LeetCode
 
