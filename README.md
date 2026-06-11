@@ -69,7 +69,7 @@ I build across the entire stack—from data pipelines and ML models to backend i
 
 ---
 
-## Statistics
+## Statistics & Achievements
 
 <div align="center">
 
@@ -93,7 +93,7 @@ I build across the entire stack—from data pipelines and ML models to backend i
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shashank-tomar0&theme=tokyonight&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shashank-tomar0&theme=tokyonight&rank=AAA,AA,A,B,C&column=7" alt="GitHub Trophies" />
 
 </div>
 
