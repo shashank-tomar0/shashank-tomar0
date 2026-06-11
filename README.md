@@ -36,45 +36,20 @@ Currently **AI Intern at [Technoledge](https://technoledge.io)** developing inte
 
 ## Current Work
 
-**[Kora](https://github.com/shashank-tomar0/kora)** - The Agentic AI Student Life OS & Academic Companion
-- Attendance heatmap with predictive analytics for lecture tracking
-- Shared roommate ledger with OCR-based bill splitter and UPI integration
-- Whiteboard scan to second brain RAG with semantic retrieval
-- Continuous voice bridge for hands-free interaction
-- Gamified student standing with XP leveling and achievement badges
-- Tech: FastAPI, React Native, Expo, Google Gemini, TypeScript, SQLite, WebSockets
+**[Kora](https://github.com/shashank-tomar0/kora)** - Agentic AI “Student Life OS” & academic companion.
+Attendance + analytics, OCR bill splitting, and whiteboard-to-RAG—plus voice-first UX. Tech: FastAPI, React Native/Expo, Gemini, TypeScript, SQLite, WebSockets.
 
-**[Aegis Code](https://github.com/shashank-tomar0/aegis-code)** - Next-Generation AI & Plagiarism Forensics Engine for CS Grading
-- LLM rewrite detector using Shannon entropy and identifier variance heuristics
-- AI plagiarism baseline bank with Gemini-authored solutions
-- AST winnowing plagiarism detection with tree-sitter support for multiple languages
-- Git forensics engine analyzing commit velocity and timestamp anomalies
-- Anti-gaming fuzzer detecting hardcoded test answers
-- Viva Voce AI agent for simulated oral exams
-- Cyberpunk TUI and glassmorphic web dashboard with real-time monitoring
-- GitHub Classroom integration with bulk repository cloning
-- PDF audit reports generation
+**[Aegis Code](https://github.com/shashank-tomar0/aegis-code)** - AI plagiarism forensics for CS grading.
+Rewrite detection, AST winnowing, Git forensics, and anti-gaming checks with audit PDFs. Includes Viva Voce agent + GitHub Classroom workflows.
 
-**[TalentScout AI](https://github.com/shashank-tomar0/TalentScout-AI)** - Neural Resume Intelligence & Forensic Hiring Engine
-- Dual-engine PDF extraction with visual OCR fallback for scanned resumes
-- Hidden text detection and 7-layer anti-manipulation security firewall
-- 8-phase forensic pipeline with 8x parallel neural analysis
-- 12-factor deterministic scoring system eliminating bias
-- Live GitHub API verification and skill-project consistency checking
-- Real-time WebSocket telemetry with immersive 3D dashboard
-- LLM-powered interview pilot generation with 10 custom questions
-- Groq LLaMA 3.1 backend with SpaCy vector-based JD matching
-- Tech: FastAPI, Next.js 15, Clerk Auth, Tailwind CSS, Framer Motion
+**[TalentScout AI](https://github.com/shashank-tomar0/TalentScout-AI)** - Resume intelligence & forensic hiring.
+Secure PDF extraction + anti-manipulation, deterministic scoring, and GitHub verification with WebSocket telemetry. Tech: FastAPI, Next.js, Clerk, Tailwind, Framer Motion.
 
-**[AI-Keyboard](https://github.com/shashank-tomar0/ai-keyboard)** - Context-Aware Text Prediction Engine
-- Transformer-based intelligence for keystroke reduction
-- Maintains linguistic coherence across diverse input contexts
-- Tech: TypeScript, React Native, Expo
+**[AI-Keyboard](https://github.com/shashank-tomar0/ai-keyboard)** - Context-aware text prediction engine.
+Transformer-based suggestions for reduced keystrokes while keeping coherence across contexts. Tech: TypeScript, React Native, Expo.
 
-**[Repwise](https://github.com/shashank-tomar0/repwise)** - Repository Intelligence & Best Practices Analyzer
-- Automated code quality assessment and architectural recommendations
-- Compliance tracking for software projects
-- Real-time repository analytics
+**[Repwise](https://github.com/shashank-tomar0/repwise)** - Repo intelligence & best-practices analyzer.
+Automated architecture/code-quality recommendations, compliance tracking, and real-time repo analytics for engineering teams.
 
 ---
 
