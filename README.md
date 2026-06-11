@@ -17,55 +17,80 @@ Building intelligent systems, AI agents, and scalable solutions that deliver mea
 
 ---
 
-## Technical Stack
+## Goto Stack
 
-**Languages:** TypeScript, Python, JavaScript, Java, Rust, Solidity, SQL
-
-**Frontend:** React, Next.js, Tailwind CSS, Framer Motion, Redux
-
-**Backend:** Node.js, Express, FastAPI, Django, Spring Boot
-
-**AI/ML:** LangChain, RAG, TensorFlow, Scikit-learn, CrewAI, Agent Systems, Claude API
-
-**Blockchain:** Solidity, Hardhat, Ethers.js, Web3.py
-
-**Infrastructure:** Docker, PostgreSQL, MongoDB, Redis, AWS, Vercel
+`TypeScript` `Python` `JavaScript` `Java` `Rust` `Solidity` `SQL`
+`React` `Next.js` `Tailwind CSS` `Framer Motion` `Redux`
+`Node.js` `Express` `FastAPI` `Django` `Spring Boot`
+`LangChain` `RAG` `TensorFlow` `Scikit-learn` `CrewAI` `Agent Systems` `Claude API`
+`Solidity` `Hardhat` `Ethers.js` `Web3.py`
+`Docker` `PostgreSQL` `MongoDB` `Redis` `AWS` `Vercel`
 
 ---
 
-## Professional Background
+## Track Record
 
-Currently **AI Intern at [Technoledge](https://technoledge.io)** — developing intelligent automation systems and AI-driven solutions for enterprise applications. Building autonomous agents, RAG architectures, and decision-making systems that scale.
+Currently **AI Intern at [Technoledge](https://technoledge.io)** developing intelligent automation systems and AI-driven solutions for enterprise applications.
 
 ---
 
 ## Current Work
 
-- **[AI-Keyboard](https://github.com/shashank-tomar0/ai-keyboard)** — Context-aware text prediction engine with transformer-based intelligence. Reduces keystroke overhead while maintaining linguistic coherence across diverse input contexts.
+**[Kora](https://github.com/shashank-tomar0/kora)** - The Agentic AI Student Life OS & Academic Companion
+- Attendance heatmap with predictive analytics for lecture tracking
+- Shared roommate ledger with OCR-based bill splitter and UPI integration
+- Whiteboard scan to second brain RAG with semantic retrieval
+- Continuous voice bridge for hands-free interaction
+- Gamified student standing with XP leveling and achievement badges
+- Tech: FastAPI, React Native, Expo, Google Gemini, TypeScript, SQLite, WebSockets
 
-- **[Kora](https://github.com/shashank-tomar0/kora)** — Intelligent data aggregation and knowledge synthesis platform. Processes heterogeneous data sources through AI pipelines to deliver unified, actionable insights in real-time.
+**[Aegis Code](https://github.com/shashank-tomar0/aegis-code)** - Next-Generation AI & Plagiarism Forensics Engine for CS Grading
+- LLM rewrite detector using Shannon entropy and identifier variance heuristics
+- AI plagiarism baseline bank with Gemini-authored solutions
+- AST winnowing plagiarism detection with tree-sitter support for multiple languages
+- Git forensics engine analyzing commit velocity and timestamp anomalies
+- Anti-gaming fuzzer detecting hardcoded test answers
+- Viva Voce AI agent for simulated oral exams
+- Cyberpunk TUI and glassmorphic web dashboard with real-time monitoring
+- GitHub Classroom integration with bulk repository cloning
+- PDF audit reports generation
 
-- **[Aegis Code](https://github.com/shashank-tomar0/aegis-code)** — Security and code analysis intelligence system leveraging LangChain. Real-time vulnerability detection, automated remediation, and comprehensive code review through advanced NLP.
+**[TalentScout AI](https://github.com/shashank-tomar0/TalentScout-AI)** - Neural Resume Intelligence & Forensic Hiring Engine
+- Dual-engine PDF extraction with visual OCR fallback for scanned resumes
+- Hidden text detection and 7-layer anti-manipulation security firewall
+- 8-phase forensic pipeline with 8x parallel neural analysis
+- 12-factor deterministic scoring system eliminating bias
+- Live GitHub API verification and skill-project consistency checking
+- Real-time WebSocket telemetry with immersive 3D dashboard
+- LLM-powered interview pilot generation with 10 custom questions
+- Groq LLaMA 3.1 backend with SpaCy vector-based JD matching
+- Tech: FastAPI, Next.js 15, Clerk Auth, Tailwind CSS, Framer Motion
 
-- **[Repwise](https://github.com/shashank-tomar0/repwise)** — Repository intelligence and best practices analyzer. Automated code quality assessment, architectural recommendations, and compliance tracking for software projects.
+**[AI-Keyboard](https://github.com/shashank-tomar0/ai-keyboard)** - Context-Aware Text Prediction Engine
+- Transformer-based intelligence for keystroke reduction
+- Maintains linguistic coherence across diverse input contexts
+- Tech: TypeScript, React Native, Expo
 
-- **[TalentScout AI](https://github.com/shashank-tomar0/TalentScout-AI)** — Talent acquisition platform powered by semantic matching. Candidate-opportunity alignment through skill assessment and predictive career trajectory modeling.
+**[Repwise](https://github.com/shashank-tomar0/repwise)** - Repository Intelligence & Best Practices Analyzer
+- Automated code quality assessment and architectural recommendations
+- Compliance tracking for software projects
+- Real-time repository analytics
 
 ---
 
 ## Building from Zero
 
-I build across the entire stack—from data pipelines and ML models to backend infrastructure to production frontends. Whether shipping full-stack AI applications, autonomous agent systems, or enterprise solutions, I focus on solving real problems with measurable impact. Backend to frontend to ML, shipping products people actually use.
+I build from zero. Whether full-stack AI applications, autonomous agent systems, or enterprise solutions, I work across the entire stack. Data pipelines to ML models to backend infrastructure to production frontends. Shipping products people actually use.
 
 ---
 
 ## Currently Exploring
 
-- **Advanced AI Agent Orchestration** — Multi-agent systems with complex task decomposition and real-time reasoning
-- **Autonomous Decision Systems** — Agents that make production decisions with confidence scoring and explainability
-- **Full-Stack AI Products** — End-to-end systems from data ingestion through inference to user-facing intelligence
-- **High-Performance Systems** — Real-time inference with sub-100ms latency requirements
-- **Blockchain + AI Integration** — Decentralized autonomous systems with on-chain decision execution
+- AI agent orchestration with multi-step reasoning and complex task decomposition
+- Autonomous decision systems with confidence scoring and explainability
+- Full-stack AI products spanning data ingestion through real-time inference
+- High-performance systems with sub-100ms decision latency
+- Blockchain integration with machine learning for decentralized autonomous execution
 
 ---
 
@@ -115,7 +140,7 @@ I build across the entire stack—from data pipelines and ML models to backend i
 
 ---
 
-## Coding Profile
+## LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/shashank-tomar?theme=dark&font=Montserrat&border=0" />
@@ -125,7 +150,9 @@ I build across the entire stack—from data pipelines and ML models to backend i
 
 ## Work with Me
 
-I'm actively seeking opportunities in AI/ML systems engineering, full-stack development, and autonomous agent architecture. Strong track record shipping production systems across diverse tech stacks with focus on reliability and measurable impact.
+I'm actively seeking opportunities in AI/ML systems engineering, full-stack development, and autonomous agent architecture.
+
+Strong track record shipping production systems across diverse tech stacks with focus on reliability and measurable impact.
 
 Available for full-time roles, contract work, and collaborative projects in AI systems, distributed systems, and enterprise automation.
 
