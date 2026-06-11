@@ -69,7 +69,7 @@ I build across the entire stack—from data pipelines and ML models to backend i
 
 ---
 
-## Metrics
+## Statistics
 
 <div align="center">
 
@@ -88,6 +88,22 @@ I build across the entire stack—from data pipelines and ML models to backend i
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashank-tomar0&theme=tokyonight" height="180" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashank-tomar0&theme=tokyonight" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shashank-tomar0&theme=tokyonight&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-tomar0&radius=16&theme=tokyonight&area=true&order=5" height="300" alt="Contribution Graph" />
 
 </div>
 
