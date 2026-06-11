@@ -32,7 +32,7 @@ Building intelligent systems, AI agents, and scalable solutions that deliver mea
 
 ## Track Record
 
-Currently **AI Intern at [Technoledge](https://technoledge.io)** developing intelligent automation systems and AI-driven solutions for enterprise applications.
+Currently **AI Intern at [Technoledge](https://technoledgeindia.com/)** developing intelligent automation systems and AI-driven solutions for enterprise applications.
 
 ---
 
