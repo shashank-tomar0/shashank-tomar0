@@ -1,9 +1,3 @@
-<div align="center">
-
-# Shashank Tomar
-
-**AI/ML Engineer · Full-Stack Developer · Building Autonomous Systems**
-
 Building intelligent systems, AI agents, and scalable solutions that deliver measurable business impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-tomar1)
@@ -74,26 +68,26 @@ I build from zero. Whether full-stack AI applications, autonomous agent systems,
 <div align="center">
 
 <a href="https://github.com/shashank-tomar0">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashank-tomar0&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashank-tomar0&theme=transparent" height="180" />
 </a>
 
 <a href="https://github.com/shashank-tomar0">
-  <img src="https://streak-stats.demolab.com/?user=shashank-tomar0&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
+<img src="https://streak-stats.demolab.com/?user=shashank-tomar0&theme=transparent&hide_border=true" height="180" />
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashank-tomar0&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashank-tomar0&theme=transparent" height="180" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashank-tomar0&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashank-tomar0&theme=transparent" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shashank-tomar0&theme=tokyonight&rank=AAA,AA,A,B,C&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shashank-tomar0&theme=transparent&rank=AAA,AA,A,B,C&column=7" alt="GitHub Trophies" />
 
 </div>
 
