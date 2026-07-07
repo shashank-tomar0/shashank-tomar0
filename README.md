@@ -74,20 +74,20 @@ I build from zero. Whether full-stack AI applications, autonomous agent systems,
 <div align="center">
 
 <a href="https://github.com/shashank-tomar0">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashank-tomar0&theme=transparent" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashank-tomar0&theme=tokyonight" height="180" />
 </a>
 
 <a href="https://github.com/shashank-tomar0">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-tomar0&theme=transparent&hide_border=true" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-tomar0&theme=tokyonight&hide_border=true" height="180" />
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashank-tomar0&theme=transparent" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashank-tomar0&theme=tokyonight" height="180" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashank-tomar0&theme=transparent" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashank-tomar0&theme=tokyonight" height="180" />
 
 </div>
 
