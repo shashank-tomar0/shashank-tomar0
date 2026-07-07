@@ -55,7 +55,7 @@ Tracks exercise library + nutrition, counts reps live, and records every set for
 
 ## Building from Zero
 
-I build from zero. Whether full-stack AI applications, autonomous agent systems, or enterprise solutions, I work across the entire stack. Data pipelines to ML models to backend infrastructure to p[...]
+I build from zero. Whether full-stack AI applications, autonomous agent systems, or enterprise solutions, I work across the entire stack. Data pipelines to ML models to backend infrastructure into production frontends. Shipping products people actually use.
 
 ---
 
