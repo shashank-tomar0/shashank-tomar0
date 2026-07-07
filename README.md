@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="anime" width="400" height="auto" />
-
 # Shashank Tomar
 
 **AI/ML Engineer · Full-Stack Developer · Building Autonomous Systems**
@@ -38,7 +36,7 @@ Currently **AI Intern at [Technoledge](https://technoledgeindia.com/)** developi
 
 ## Current Work
 
-**[Kora](https://github.com/shashank-tomar0/kora)** - Agentic AI “Student Life OS” & academic companion.
+**[Kora](https://github.com/shashank-tomar0/kora)** - Agentic AI "Student Life OS" & academic companion.
 Attendance + analytics, OCR bill splitting, and whiteboard-to-RAG—plus voice-first UX. Tech: FastAPI, React Native/Expo, Gemini, TypeScript, SQLite, WebSockets.
 
 **[Aegis Code](https://github.com/shashank-tomar0/aegis-code)** - AI plagiarism forensics for CS grading.
@@ -57,7 +55,7 @@ Tracks exercise library + nutrition, counts reps live, and records every set for
 
 ## Building from Zero
 
-I build from zero. Whether full-stack AI applications, autonomous agent systems, or enterprise solutions, I work across the entire stack. Data pipelines to ML models to backend infrastructure to production frontends. Shipping products people actually use.
+I build from zero. Whether full-stack AI applications, autonomous agent systems, or enterprise solutions, I work across the entire stack. Data pipelines to ML models to backend infrastructure to p[...]
 
 ---
 
