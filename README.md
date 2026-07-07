@@ -74,7 +74,7 @@ I build from zero. Whether full-stack AI applications, autonomous agent systems,
 <div align="center">
 
 <a href="https://github.com/shashank-tomar0">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashank-tomar0&theme=github_dark" height="180" />
+<img src="https://github-stats-extended.vercel.app/api?username=shashank-tomar0&theme=github_dark&hide_border=true&icon_color=2ea043&show_icons=true" height="180" />
 </a>
 
 <a href="https://github.com/shashank-tomar0">
