@@ -8,7 +8,7 @@ Building intelligent systems, AI agents, and scalable solutions that deliver mea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-tomar1)
 [![X](https://img.shields.io/badge/@shashank1tomar-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shashank1tomar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sudotom.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shashanktomar.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashanktomar912@gmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/shashank-tomar0?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/shashank-tomar0)
@@ -117,7 +117,7 @@ Available for full-time roles, contract work, and collaborative projects in AI s
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/See_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sudotom.vercel.app)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shashanktomar.dev)
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-tomar1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashanktomar912@gmail.com)
 
